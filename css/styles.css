@@ -35,6 +35,6 @@ h3 {
 .image {
     max-width: 100%;
     height: auto;
-    margin: 10px 0;
-    margin-bottom: 15px;
+/*  margin: 10px 0; */
+    margin-bottom: 10px;
 }
