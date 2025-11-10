@@ -41,20 +41,6 @@ a:hover {
     background-color: #f9f9f9;
 }
 
-.profile-picture {
-    border-radius: 50%;
-    width: 150px;
-    height: 150px;
-    object-fit: cover;
-    margin-bottom: 20px;
-    filter: grayscale(50%);
-    transition: filter 0.3s ease-in-out;
-}
-
-.profile-picture:hover {
-    filter: grayscale(0%);
-}
-
 footer {
     text-align: center;
     margin-top: 20px;
