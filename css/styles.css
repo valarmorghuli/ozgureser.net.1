@@ -69,3 +69,7 @@ footer {
 .navbar a:hover {
     color: #1abc9c;
 }
+
+ul {
+  list-style-type: none;
+}
